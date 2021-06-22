@@ -100,7 +100,7 @@ class MainKtTest {
             limit = limit
 
         )
-        assertEquals(35100, result)
+        assertEquals(3500, result)
     }
 
     @Test
